@@ -9,4 +9,4 @@ I like video games and therefore I decided to become a game developer. For this 
 fast growing and changing. Finally I chose **web development** because it is serious direction with great oppotunities. <br/><br/> 
 After attempts to learn [**ASP.NET**](https://github.com/miseinen/DinosaursShop) I tried my hand in **Ruby on Rails**. And this acquaintance was successful. 
 After a month of studying Ruby on Rails with the help of Udemy and Linkedin Learning I created my own web application [CoffeeCardsBlog](https://github.com/miseinen/CoffeeCardsBlog).
-<br/><br/>::octocat:Development became my passion.
+<br/><br/>::octocat:IT world became my passion.
