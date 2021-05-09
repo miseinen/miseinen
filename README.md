@@ -10,5 +10,3 @@ After a month of studying Ruby on Rails with the help of Udemy and Linkedin Lear
 
 I am currently taking a **Ruby course** at the 📚[**Epam training center**](https://training.by/#!/About?lang=en).
 <br/><br/>:octocat:IT world became my passion.
-<hr />
-<img src="https://www.codewars.com/users/Miseinen/badges/small" />
