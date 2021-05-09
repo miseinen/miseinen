@@ -1,5 +1,3 @@
-# <h2>Hi ❄️ there. <br/><img src="https://img.shields.io/badge/Hello---World!-informational?logoWidth=60&style=plastic" />
-
 <h3>Let me introduce myself💮.</h3>
 
 I started my journey to development in *March, 2019*. I finished **"C# Programming" course** at the 📚[**Educational Center of HTP**](https://www.it-academy.by/about/it-academy/) (Minsk, Belarus) with <i>"C# Development" Certification</i>. 
