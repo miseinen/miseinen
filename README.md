@@ -2,8 +2,8 @@
 
 **Completed trainings**:
 📚[**Educational Center of HTP**](https://www.it-academy.by/about/it-academy/) (Minsk, Belarus):
-- 2019 **"C# Programming" course** with _"C# Development" Certification_
-- 2019 **"Mobile Game Development** with _Unity" Certification_
+- 2019 **"C# Programming" course**
+- 2019 **"Mobile Game Development with Unity"**
 
 I am currently taking a **Ruby course** at the 📚[**Epam training center**](https://training.by/#!/About?lang=en).<hr/>
 
