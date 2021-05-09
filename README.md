@@ -16,7 +16,7 @@ I am currently taking a **Ruby course** at the 📚[**Epam training center**](ht
    <ul>
     <li><i>2021</i> <a href="https://github.com/labs-ruby/homeworks-2021"><b>Epam Ruby Training</b></a> <i>(Ruby)</i></li>
     <ul><li><b>Description</b>: Contributor of Spring-2021 course homeworks</li></ul>
-     <li><i>2021</i> <a href="https://github.com/miseinen/random-pizza-from-pzz"><b>Random Pizza from Pzz.by</b></a> <i>(Ruby)</i></li>
+     <li><i>May, 2021</i> <a href="https://github.com/miseinen/random-pizza-from-pzz"><b>Random Pizza from Pzz.by</b></a> <i>(Ruby)</i></li>
     <ul><li><b>Description</b>: A simple console application that allows to get a random pizza from Pzz.by </li></ul>
      <li><i>Dec, 2020</i> <a href="https://github.com/miseinen/CoffeeCardsBlog"><b>CoffeeCardsBlog</b></a> <i>(Ruby on Rails)</i></li>
     <ul><li><b>Description</b>: Web App deployed on Heroku</li></ul>
