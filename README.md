@@ -1,12 +1,3 @@
-<h3>Hi there.💮A little bit about myself</h3>
-
-**Completed trainings**:
-📚[**Educational Center of HTP**](https://www.it-academy.by/about/it-academy/) (Minsk, Belarus):
-- 2019 **"C# Programming" course**
-- 2019 **"Mobile Game Development with Unity"**
-
-I am currently taking a **Ruby course** at the 📚[**Epam training center**](https://training.by/#!/About?lang=en).<hr/>
-
 ### Projects
 
 <table>
@@ -15,22 +6,22 @@ I am currently taking a **Ruby course** at the 📚[**Epam training center**](ht
    <td>
    <ul>
     <li><i>2021</i> | <a href="https://github.com/labs-ruby/homeworks-2021"><b>Epam Ruby Training</b></a></li>
-    <ul><li><b>Description</b>: Contributor of Spring-2021 course homeworks <i>(Ruby)</i></li></ul><hr/>
+    <ul><li><b>Description</b>: Contributor of Spring-2021 course homeworks <i>(Ruby)</i></li></ul><br/>
     <li><i>May, 2021</i> |  <a href="https://github.com/miseinen/views-count-log-parser"><b>Comleted Test Task: Log parser</b></a> </li>
-    <ul><li><b>Description</b>: A script that parses and shows logs in a specific format <i>(Ruby)</i></li></ul><hr/>
+    <ul><li><b>Description</b>: A script that parses and shows logs in a specific format <i>(Ruby)</i></li></ul><br/>
     <li><i>May, 2021</i> |  <a href="https://github.com/miseinen/japanese-reading-trainer"><b>Japanese Reading Trainer</b></a></li>
-    <ul><li><b>Description</b>: Console app for reading training <i>(Ruby)</i></li></ul><hr/>
+    <ul><li><b>Description</b>: Console app for reading training <i>(Ruby)</i></li></ul><br/>
      <li><i>May, 2021</i> |  <a href="https://github.com/miseinen/random-pizza-from-pzz"><b>Random Pizza from Pzz.by</b></a> </li>
-    <ul><li><b>Description</b>: A simple console application that allows to get a random pizza from Pzz.by <i>(Ruby)</i></li></ul><hr/>
+    <ul><li><b>Description</b>: A simple console application that allows to get a random pizza from Pzz.by <i>(Ruby)</i></li></ul><br/>
      <li><i>Dec, 2020</i> |  <a href="https://github.com/miseinen/CoffeeCardsBlog"><b>CoffeeCardsBlog</b></a> </li>
     <ul><li><b>Description</b>: Web App deployed on Heroku <i>(Ruby on Rails)</i></li></ul>
    </ul>
    </td>
    <td><ul>
     <li><i>Jul, 2020</i> |  <a href="https://github.com/miseinen/DinosaursShop"><b>DinosaursShop</b></a></li>
-    <ul><li><b>Description</b>: Web app without deploying <i>(ASP.NET)</i></li></ul><hr/>
+    <ul><li><b>Description</b>: Web app without deploying <i>(ASP.NET)</i></li></ul><br/>
      <li><i>Oct, 2019</i> |  <a href="https://github.com/miseinen/PaperScissorsRock"><b>PaperScissorsRock</a></li>
-    <ul><li><b>Description</b>: Game</b> <i>(Unity)</i></li></ul><hr/>
+    <ul><li><b>Description</b>: Game</b> <i>(Unity)</i></li></ul><br/>
      <li><i>Sep, 2019</i> |  <a href="https://github.com/miseinen/BuildStackClone"><b>BuildStackClone</b></a> </li>
     <ul><li><b>Description</b>: Game <i>(Unity)</i></li></ul>
    </ul>
