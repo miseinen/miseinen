@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-[**🗂Full Homewrok repo**](https://github.com/labs-ruby/homeworks-2021)
+[**🗂Full Homework repo**](https://github.com/labs-ruby/homeworks-2021)
 
 
 
