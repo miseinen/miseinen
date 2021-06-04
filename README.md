@@ -15,20 +15,22 @@ I am currently taking a **Ruby course** at the 📚[**Epam training center**](ht
    <td>
    <ul>
     <li><i>2021</i> <a href="https://github.com/labs-ruby/homeworks-2021"><b>Epam Ruby Training</b></a> <i>(Ruby)</i></li>
-    <ul><li><b>Description</b>: Contributor of Spring-2021 course homeworks</li></ul>
+    <ul><li><b>Description</b>: Contributor of Spring-2021 course homeworks</li></ul><hr/>
+    <li><i>May, 2021</i> <a href="https://github.com/miseinen/views-count-log-parser"><b>Comleted Test Task: Log parser</b></a> <i>(Ruby)</i></li>
+    <ul><li><b>Description</b>: A script that parses and shows logs in a specific format.</li></ul><hr/>
     <li><i>May, 2021</i> <a href="https://github.com/miseinen/japanese-reading-trainer"><b>Japanese Reading Trainer</b></a> <i>(Ruby)</i></li>
-    <ul><li><b>Description</b>: Console app for reading training</li></ul>
+    <ul><li><b>Description</b>: Console app for reading training</li></ul><hr/>
      <li><i>May, 2021</i> <a href="https://github.com/miseinen/random-pizza-from-pzz"><b>Random Pizza from Pzz.by</b></a> <i>(Ruby)</i></li>
-    <ul><li><b>Description</b>: A simple console application that allows to get a random pizza from Pzz.by </li></ul>
+    <ul><li><b>Description</b>: A simple console application that allows to get a random pizza from Pzz.by </li></ul><hr/>
      <li><i>Dec, 2020</i> <a href="https://github.com/miseinen/CoffeeCardsBlog"><b>CoffeeCardsBlog</b></a> <i>(Ruby on Rails)</i></li>
     <ul><li><b>Description</b>: Web App deployed on Heroku</li></ul>
    </ul>
    </td>
    <td><ul>
     <li><i>Jul, 2020</i> <a href="https://github.com/miseinen/DinosaursShop"><b>DinosaursShop</b></a> <i>(ASP.NET)</i></li>
-    <ul><li><b>Description</b>: Web app without deploying</li></ul>
+    <ul><li><b>Description</b>: Web app without deploying</li></ul><hr/>
      <li><i>Oct, 2019</i> <a href="https://github.com/miseinen/PaperScissorsRock"><b>PaperScissorsRock</b></a> <i>(Unity)</i></li>
-    <ul><li><b>Description</b>: Game</li></ul>
+    <ul><li><b>Description</b>: Game</li></ul><hr/>
      <li><i>Sep, 2019</i> <a href="https://github.com/miseinen/BuildStackClone"><b>BuildStackClone</b></a> <i>(Unity)</i></li>
     <ul><li><b>Description</b>: Game</li></ul>
    </ul>
