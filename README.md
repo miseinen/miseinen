@@ -3,7 +3,7 @@
   <tr>
    <td>
    <ul>
-    <li><i>2021</i> | <a href="https://github.com/labs-ruby/homeworks-2021"><b>Epam Ruby Training</b></a></li>
+    <li><i>2021</i> | <a href="https://github.com/miseinen/miseinen/blob/main/task-description.md"><b>Epam Ruby Training</b></a></li>
     <ul><li><b>Description</b>: Contributor of Spring-2021 course homeworks <i>(Ruby)</i></li></ul><br/>
     <li><i>May, 2021</i> |  <a href="https://github.com/miseinen/views-count-log-parser"><b>Comleted Test Task: Log parser</b></a> </li>
     <ul><li><b>Description</b>: A script that parses and shows logs in a specific format <i>(Ruby)</i></li></ul><br/>
