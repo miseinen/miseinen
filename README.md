@@ -1,5 +1,4 @@
 ## Projects<a href="https://www.linkedin.com/in/ekaterina-%F0%9F%A4%96-balabanovich-13a116194/"><img align="right" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="35" height="35" /></a><a href="https://twitter.com/kate_tomosimasu"><img align="right" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="35" height="35" /></a>
-<img align="right" src="https://komarev.com/ghpvc/?username=miseinen&label=Visitors&color=blueviolet" height="23" />
 
 <img align="left" src="https://camo.githubusercontent.com/7cfd01e43b771693aee36615faba5e9d9b6eda7760989c883eb25b2f9158d925/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f727562792e737667" width="40" height="40" />
 <ul>
