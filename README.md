@@ -25,6 +25,11 @@
    </ul>
    </td>
  </tr>
- </table><hr/>
+ </table>
+ <hr/>
+ 
+ [ **🪄📝Step by Step Rails App Tutorial** ](https://github.com/miseinen/rails-new-step-by-step-info#readme)
+ 
+ <hr/>
  
  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterina-%F0%9F%A4%96-balabanovich-13a116194/)    [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kate_tomosimasu)  [![image](https://www.codewars.com/users/Miseinen/badges/micro)](https://www.codewars.com/users/Miseinen)
