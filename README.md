@@ -48,7 +48,7 @@
     <ul><li><b>Description</b>: Game <i>(Unity)</i></li></ul>
  </details>
 
-## Statistics📊
+## 📊Statistics
 
 <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=miseinen&show_icons=true&count_private=true&theme=radical" /> 
 
