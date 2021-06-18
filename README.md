@@ -32,4 +32,5 @@
  
  <hr/>
  
- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterina-%F0%9F%A4%96-balabanovich-13a116194/)    [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kate_tomosimasu)  [![image](https://www.codewars.com/users/Miseinen/badges/micro)](https://www.codewars.com/users/Miseinen)
+<a href="https://www.linkedin.com/in/ekaterina-%F0%9F%A4%96-balabanovich-13a116194/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="35" height="35" /></a> 
+ <a href="https://twitter.com/kate_tomosimasu"><img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="35" height="35" /></a> 
