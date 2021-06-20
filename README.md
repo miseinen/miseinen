@@ -40,9 +40,9 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="80" height="40" />
  </summary>
   <li><i>Jul, 2020</i> |  <a href="https://github.com/miseinen/DinosaursShop"><b>DinosaursShop</b></a></li>
-    <ul><li><b>Description</b>: Web app without deploying <i>(ASP.NET)</i></li></ul><br/>
+    <ul><li><b>Description</b>: Web app without deploying <i>(ASP.NET)</i></li></ul>
      <li><i>Oct, 2019</i> |  <a href="https://github.com/miseinen/PaperScissorsRock"><b>PaperScissorsRock</a></li>
-    <ul><li><b>Description</b>: Game</b> <i>(Unity)</i></li></ul><br/>
+    <ul><li><b>Description</b>: Game</b> <i>(Unity)</i></li></ul>
      <li><i>Sep, 2019</i> |  <a href="https://github.com/miseinen/BuildStackClone"><b>BuildStackClone</b></a> </li>
     <ul><li><b>Description</b>: Game <i>(Unity)</i></li></ul>
  </details>
