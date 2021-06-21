@@ -10,7 +10,7 @@
 <img align="left" src="https://camo.githubusercontent.com/7cfd01e43b771693aee36615faba5e9d9b6eda7760989c883eb25b2f9158d925/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f727562792e737667" width="40" height="40" />
 <ul>
  <li><i>May, 2021</i> |  <a href="https://github.com/miseinen/views-count-log-parser"><b>Comleted Test Task: Log parser</b></a> </li>
- <ul><li><b>Description</b>: A script that parses and shows logs in a specific format</li></ul>
+ <ul><li><b>Description</b>: A script that parses and shows logs in a specific format (with RSpec tests)</li></ul>
 </ul>
 
 
