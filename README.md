@@ -30,7 +30,7 @@
 
 <img align="left" src="https://camo.githubusercontent.com/2cd5ff4e57da4415739f7e590b8d1938a7608e43403f0fb4811be0f56329c9f3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f727562796f6e7261696c732e737667" width="40" height="40" />
 <ul>
- <li><i>Dec, 2020</i> |  <a href="https://github.com/miseinen/CoffeeCardsBlog"><b>CoffeeCardsBlog</b></a> </li>
+ <li><i>Dec, 2020</i> |  <a href="https://github.com/miseinen/coffee-cards-blog"><b>CoffeeCardsBlog</b></a> </li>
  <ul><li><b>Description</b>: Web App deployed on Heroku</li></ul>
 </ul>
 <br/>
