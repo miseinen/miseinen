@@ -33,19 +33,24 @@
  <li><i>Dec, 2020</i> |  <a href="https://github.com/miseinen/coffee-cards-blog"><b>CoffeeCards Blog</b></a> </li>
  <ul><li><b>Description</b>: Web App deployed on Heroku</li></ul>
 </ul>
-<br/>
 
- <details>
- <summary>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="80" height="40" />
- </summary>
-  <li><i>Jul, 2020</i> |  <a href="https://github.com/miseinen/DinosaursShop"><b>DinosaursShop</b></a></li>
-    <ul><li><b>Description</b>: Web app without deploying <i>(ASP.NET)</i></li></ul>
-     <li><i>Oct, 2019</i> |  <a href="https://github.com/miseinen/PaperScissorsRock"><b>PaperScissorsRock</a></li>
-    <ul><li><b>Description</b>: Game</b> <i>(Unity)</i></li></ul>
-     <li><i>Sep, 2019</i> |  <a href="https://github.com/miseinen/BuildStackClone"><b>BuildStackClone</b></a> </li>
-    <ul><li><b>Description</b>: Game <i>(Unity)</i></li></ul>
- </details>
+<img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="100" height="45" />
+<ul>
+ <li><i>Dec, 2020</i> |  <a href="https://github.com/miseinen/DinosaursShop"><b>DinosaursShop</b></a> </li>
+ <ul><li><b>Description</b>: Web app without deploying <i>(ASP.NET)</i></li></ul>
+</ul>
+
+<img align="left" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" width="100" height="40" />
+<ul>
+ <li><i>Dec, 2020</i> |  <a href="https://github.com/miseinen/DinosaursShop"><b>PaperScissorsRock</b></a> </li>
+ <ul><li><b>Description</b>: Game</li></ul>
+</ul>
+
+<img align="left" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" width="100" height="40" />
+<ul>
+ <li><i>Dec, 2020</i> |  <a href="https://github.com/miseinen/DinosaursShop"><b>BuildStackClone</b></a> </li>
+ <ul><li><b>Description</b>: Game</li></ul>
+</ul>
 
 ## 📊Statistics
 
