@@ -52,7 +52,3 @@
  <ul><li><b>Description</b>: Game</li></ul>
 </ul>
 
-## 📊Statistics
-
-<img aligh="left" src="https://github-readme-stats.vercel.app/api?username=miseinen&show_icons=true&count_private=true&theme=radical" /> 
-
