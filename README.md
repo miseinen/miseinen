@@ -56,6 +56,3 @@
 
 <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=miseinen&show_icons=true&count_private=true&theme=radical" /> 
 
-## Tutorials🔖
-
-[ **🪄📝Step by Step Rails App Tutorial** ](https://github.com/miseinen/rails-new-step-by-step-info#readme) 
