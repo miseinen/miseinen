@@ -9,7 +9,7 @@
 
 <img align="left" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" width="100" height="40" />
 <ul>
- <li><i>May, 2021</i> |  <a href="https://github.com/miseinen/views-count-log-parser"><b>Comleted Test Task: Log parser</b></a> </li>
+ <li><i>May, 2021</i> |  <a href="https://github.com/miseinen/views-count-log-parser"><b>Log Parser Test Task</b></a> </li>
  <ul><li><b>Description</b>: A script that parses and shows logs in a specific format (with RSpec tests)</li></ul>
 </ul>
 
