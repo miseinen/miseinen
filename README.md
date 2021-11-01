@@ -6,14 +6,6 @@
  <ul><li><b>Description</b>: Contributor of Spring-2021 course homeworks</ul>
 </ul>
 
-
-<img align="left" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" width="100" height="40" />
-<ul>
- <li><i>May, 2021</i> |  <a href="https://github.com/miseinen/views-count-log-parser"><b>Log Parser Test Task</b></a> </li>
- <ul><li><b>Description</b>: A script that parses and shows logs in a specific format (with RSpec tests)</li></ul>
-</ul>
-
-
 <img align="left" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" width="100" height="40" />
 <ul>
  <li><i>May, 2021</i> |  <a href="https://github.com/miseinen/japanese-reading-trainer"><b>Japanese Reading Trainer</b></a></li>
